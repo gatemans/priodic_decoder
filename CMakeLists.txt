@@ -4,3 +4,4 @@ project(elements_decoder C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(elements_decoder main.c)
+add_executable(elements_decoder main1.2.c)
