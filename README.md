@@ -13,9 +13,10 @@ Periodic Decoder is a C project that takes numeric input and generates all possi
 2. Each number will be matched with the atomic symbol of the corresponding element.
 3. The program generates and prints out all possible word combinations that can be formed from those symbols.
 
-## next step#1
-make data base for detec best answer
 
 ## Update1:
 - Added dictionary txt file and search combinations 
 - For the next try, working on some neural networks, to translate the combinations better (I mean to recognize combinations that are close to real words even though they are not exactly the same)
+
+
+## Mohammad Mahdi Khaligh
