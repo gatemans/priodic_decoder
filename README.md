@@ -15,3 +15,7 @@ Periodic Decoder is a C project that takes numeric input and generates all possi
 
 ## next step#1
 make data base for detec best answer
+
+## Update1:
+- Added dictionary txt file and search combinations 
+- For the next try, working on some neural networks, to translate the combinations better (I mean to recognize combinations that are close to real words even though they are not exactly the same)
