@@ -1,7 +1,7 @@
 /*
  *
  * periodic decoder version:1.2
- * use dictionary for detecting variable compositions
+ * use dictionary for detecting variable combinations
  * Mohammad Mahdi Khaligh
  * github: gatemans
  *
